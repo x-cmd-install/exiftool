@@ -7,7 +7,7 @@ about:
   head: 2200871
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:41:19Z
+  collectedAt: 2026-09-04T20:52:22Z
 timeline:
   created: 2018-05-09
   lastCommit: 2026-05-27
@@ -84,6 +84,59 @@ total:
   openIssue: 34
   commit: 423
 ---
+path: /home/runner/.x-repo/github.com/exiftool/exiftool
+collectedAt: 2026-09-04T20:52:29Z
+loc:
+  Perl:
+    code: 318005
+    comments: 25570
+    blanks: 9631
+    files: 244
+  Html:
+    code: 282499
+    comments: 268
+    blanks: 3653
+    files: 187
+  Svg:
+    code: 671
+    comments: 51
+    blanks: 0
+    files: 7
+  Xml:
+    code: 123
+    comments: 0
+    blanks: 1
+    files: 2
+  RPMSpecfile:
+    code: 112
+    comments: 0
+    blanks: 11
+    files: 1
+  Json:
+    code: 74
+    comments: 0
+    blanks: 0
+    files: 2
+  Css:
+    code: 59
+    comments: 0
+    blanks: 3
+    files: 2
+  Yaml:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  Text:
+    code: 0
+    comments: 2556
+    blanks: 494
+    files: 7
+total:
+  code: 602029
+  comments: 28464
+  blanks: 13800
+  files: 453
 ---
 date: "2026-08-24"
 repo:
