@@ -1,0 +1,2599 @@
+- repo: chocolatey
+  binname: exiftool
+  visiblename: ExifTool
+  version: 13.59.0
+  origversion: null
+  status: newest
+  summary: Read, write and edit metadata
+- repo: cpan
+  srcname: Image-ExifTool
+  visiblename: Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  maintainers:
+    - exiftool@cpan
+- repo: alpine_3_23
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_3_24
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.55"
+  origversion: 13.55-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+- repo: altsisyphus
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.59"
+  origversion: 13.59-alt1
+  status: newest
+  summary: Perl module for manipulating EXIF data
+  maintainers:
+    - admsasha@altlinux.org
+  licenses:
+    - Perl
+  categories:
+    - Development/Perl
+- repo: aosc
+  srcname: lang-perl/perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Reader and rewriter of EXIF informations that supports raw files
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - perl
+- repo: arch
+  subrepo: extra
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: archpower_powerpc
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: archpower_powerpc64le
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: artix
+  subrepo: world
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: crux_38
+  subrepo: contrib
+  srcname: p5-image-exiftool
+  visiblename: p5-image-exiftool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Reader and rewriter of EXIF informations that supports raw files
+  maintainers:
+    - tbier@posteo.de
+- repo: cygwin
+  srcname: perl-Image-ExifTool
+  binname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 13.550.0
+  origversion: 13.550.0-1
+  status: incorrect
+  summary: Perl distribution Image-ExifTool
+  maintainers:
+    - achim.gratz@cygwin
+  licenses:
+    - Artistic-1.0-Perl OR GPL-1.0-or-later
+  categories:
+    - Perl
+- repo: debian_14
+  subrepo: forky/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.55"
+  origversion: 13.55+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.55"
+  origversion: 13.55+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.55"
+  origversion: 13.55+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+- repo: exherbo
+  subrepo: perl
+  srcname: media-libs/ExifTool
+  visiblename: media-libs/ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Perl library and CLI for manipulating Exif data
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - media-libs
+- repo: fedora_42
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.50"
+  origversion: 13.50-1.fc42
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.50"
+  origversion: 13.50-1.fc43
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.50"
+  origversion: 13.50-1.fc44
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.50"
+  origversion: 13.50-2.fc45
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+- repo: kaos
+  subrepo: apps
+  srcname: image-exiftool
+  binname: image-exiftool
+  visiblename: image-exiftool
+  version: "13.59"
+  origversion: 13.59-1
+  status: newest
+  summary: Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
+  maintainers:
+    - demm@kaosx.us
+  licenses:
+    - GPL
+- repo: freebsd
+  srcname: graphics/p5-Image-ExifTool-devel
+  binname: p5-Image-ExifTool-devel
+  visiblename: graphics/p5-Image-ExifTool-devel
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Script and Perl module to read/write meta data in files
+  maintainers:
+    - svysh.fbsd@gmail.com
+  categories:
+    - graphics
+- repo: gnuguix
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Program and Perl library to manipulate EXIF and other metadata
+- repo: haikuports_master
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.57"
+  origversion: null
+  status: outdated
+  categories:
+    - media-libs
+- repo: homebrew
+  srcname: exiftool
+  visiblename: exiftool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Perl lib for reading and writing EXIF metadata
+- repo: homebrew
+  srcname: exiftool
+  visiblename: exiftool
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Perl lib for reading and writing EXIF metadata
+- repo: kali_rolling
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.55"
+  origversion: 13.55+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+- repo: kiss_community
+  subrepo: community
+  srcname: exiftool
+  visiblename: exiftool
+  version: "13.59"
+  origversion: null
+  status: newest
+  maintainers:
+    - cedric@vouivre.org
+- repo: macports
+  srcname: perl/exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: 13.590.0
+  origversion: null
+  status: incorrect
+  summary: exiftool - General command line utility to read, write and edit EXIF metadata
+  maintainers:
+    - devans@macports
+    - dbevans@github
+  licenses:
+    - Artistic-1
+    - GPL
+  categories:
+    - perl
+- repo: macports
+  srcname: perl/p5-image-exiftool
+  binname: p5.28-image-exiftool
+  visiblename: p5.28-image-exiftool
+  version: 13.590.0
+  origversion: null
+  status: incorrect
+  summary: Image::Exiftool - a set of Perl modules to read and write meta information in a wide variety of image, audio, video and document files.
+  maintainers:
+    - devans@macports
+    - dbevans@github
+  licenses:
+    - Artistic-1
+    - GPL
+  categories:
+    - perl
+- repo: macports
+  srcname: perl/p5-image-exiftool
+  binname: p5.30-image-exiftool
+  visiblename: p5.30-image-exiftool
+  version: 13.590.0
+  origversion: null
+  status: incorrect
+  summary: Image::Exiftool - a set of Perl modules to read and write meta information in a wide variety of image, audio, video and document files.
+  maintainers:
+    - devans@macports
+    - dbevans@github
+  licenses:
+    - Artistic-1
+    - GPL
+  categories:
+    - perl
+- repo: macports
+  srcname: perl/p5-image-exiftool
+  binname: p5.32-image-exiftool
+  visiblename: p5.32-image-exiftool
+  version: 13.590.0
+  origversion: null
+  status: incorrect
+  summary: Image::Exiftool - a set of Perl modules to read and write meta information in a wide variety of image, audio, video and document files.
+  maintainers:
+    - devans@macports
+    - dbevans@github
+  licenses:
+    - Artistic-1
+    - GPL
+  categories:
+    - perl
+- repo: nix_unstable
+  srcname: perl5Packages.ImageExifTool
+  visiblename: Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perl5Packages
+- repo: macports
+  srcname: perl/p5-image-exiftool
+  binname: p5.34-image-exiftool
+  visiblename: p5.34-image-exiftool
+  version: 13.590.0
+  origversion: null
+  status: incorrect
+  summary: Image::Exiftool - a set of Perl modules to read and write meta information in a wide variety of image, audio, video and document files.
+  maintainers:
+    - devans@macports
+    - dbevans@github
+  licenses:
+    - Artistic-1
+    - GPL
+  categories:
+    - perl
+- repo: mageia_10
+  subrepo: core/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 13.440.0
+  origversion: 1:13.440.0-1.mga10
+  status: incorrect
+  summary: Read and write meta information
+  licenses:
+    - GPL
+  categories:
+    - Development/Perl
+- repo: mageia_cauldron
+  subrepo: core/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 13.550.0
+  origversion: 1:13.550.0-1.mga11
+  status: incorrect
+  summary: Read and write meta information
+  licenses:
+    - GPL
+  categories:
+    - Development/Perl
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: exiftool
+  visiblename: perl5.40.0-Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+- repo: nix_stable_25_11
+  srcname: perl538Packages.ImageExifTool
+  visiblename: perl5.38.2-Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perl538Packages
+- repo: nix_stable_26_05
+  srcname: perl5Packages.ImageExifTool
+  visiblename: Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perl5Packages
+- repo: nix_stable_26_05
+  srcname: perlPackages.ImageExifTool
+  visiblename: Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perlPackages
+- repo: nix_stable_26_05
+  srcname: exiftool
+  visiblename: Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+- repo: nix_unstable
+  srcname: exiftool
+  visiblename: Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+- repo: nix_unstable
+  srcname: perlPackages.ImageExifTool
+  visiblename: Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perlPackages
+- repo: openbsd
+  srcname: graphics/p5-Image-ExifTool
+  binname: p5-Image-ExifTool
+  visiblename: graphics/p5-Image-ExifTool
+  version: "13.56"
+  origversion: null
+  status: outdated
+  summary: read and write meta information in image/audio/video files
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - graphics
+- repo: openindiana
+  subrepo: hipster
+  srcname: Image-ExifTool
+  binname: library/perl-5/image-exiftool
+  visiblename: Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information
+  categories:
+    - Development/Perl
+- repo: openindiana
+  subrepo: hipster
+  srcname: Image-ExifTool
+  binname: library/perl-5/image-exiftool-538
+  visiblename: Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information
+  categories:
+    - Development/Perl
+- repo: openindiana
+  subrepo: hipster
+  srcname: Image-ExifTool
+  binname: library/perl-5/image-exiftool-540
+  visiblename: Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information
+  categories:
+    - Development/Perl
+- repo: openindiana
+  subrepo: hipster
+  srcname: Image-ExifTool
+  binname: library/perl-5/image-exiftool-542
+  visiblename: Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information
+  categories:
+    - Development/Perl
+- repo: openmamba
+  subrepo: base
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.59"
+  origversion: 13.59-1mamba
+  status: newest
+  summary: Image::ExifTool - Utility for reading and writing image meta info
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - Artistic
+  categories:
+    - System/Libraries/Perl
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.59"
+  origversion: 13.59-1
+  status: newest
+  summary: Read and write meta information
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - GPLv2
+  categories:
+    - Development/Perl
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+    - exiftool
+    - perl-File-RandomAccess
+  visiblename: perl-Image-ExifTool
+  version: "13.59"
+  origversion: 13.59-1.3
+  status: newest
+  summary: Read and write meta information
+  licenses:
+    - Artistic-1.0 OR GPL-1.0-or-later
+  categories:
+    - Unspecified
+- repo: pacstall
+  srcname: exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.51"
+  origversion: 13.51-1
+  status: outdated
+  summary: Platform-independent Perl library for reading and writing EXIF data
+  maintainers:
+    - muhammadishaque812@gmail.com
+- repo: parabola
+  subrepo: extra
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: 13.55-1
+  status: outdated
+  summary: Read and write EXIF information
+  licenses:
+    - Artistic-1.0-Perl OR GPL-3.0-or-later
+- repo: pkgsrc_2026_1
+  srcname: graphics/p5-Image-ExifTool
+  binname: p5-Image-ExifTool
+  visiblename: graphics/p5-Image-ExifTool
+  version: "13.50"
+  origversion: null
+  status: outdated
+  summary: Perl module and program to read EXIF information
+  maintainers:
+    - gdt@netbsd.org
+  categories:
+    - graphics
+- repo: pkgsrc_2026_2
+  srcname: graphics/p5-Image-ExifTool
+  binname: p5-Image-ExifTool
+  visiblename: graphics/p5-Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Perl module and program to read EXIF information
+  maintainers:
+    - gdt@netbsd.org
+  categories:
+    - graphics
+- repo: pkgsrc_current
+  srcname: graphics/p5-Image-ExifTool
+  binname: p5-Image-ExifTool
+  visiblename: graphics/p5-Image-ExifTool
+  version: "13.55"
+  origversion: 13.55nb1
+  status: outdated
+  summary: Perl module and program to read EXIF information
+  maintainers:
+    - gdt@netbsd.org
+  categories:
+    - graphics
+- repo: raspbian_testing
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.55"
+  origversion: 13.55+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+- repo: ravenports
+  srcname: perl-Image-ExifTool
+  binname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Read and write meta information (5.42)
+  maintainers:
+    - perl@ravenports.com
+  categories:
+    - perl
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 13.190.0
+  origversion: 1:13.190.0-1
+  status: incorrect
+  summary: Read and write meta information
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - GPL
+  categories:
+    - Development/Perl
+- repo: rosa_13
+  subrepo: main/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 13.190.0
+  origversion: 1:13.190.0-1
+  status: incorrect
+  summary: Read and write meta information
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPL
+  categories:
+    - Development/Perl
+- repo: scoop
+  subrepo: main
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.59"
+  origversion: null
+  status: newest
+  licenses:
+    - GPL-1.0-or-later|Artistic-1.0-Perl
+- repo: side
+  srcname: runtime/language/perl/perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.50"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information.
+  maintainers:
+    - uglyside@yandex.ru
+  licenses:
+    - Artistic/GPL
+- repo: solus
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Reader and rewriter of EXIF informations that supports raw files
+  maintainers:
+    - jared@jaredcervantes.com
+  licenses:
+    - GPL-3.0-or-later
+  categories:
+    - multimedia.library
+- repo: t2
+  srcname: exiftool
+  visiblename: exiftool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Manage image meta information
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - GPL
+  categories:
+    - extra/multimedia
+- repo: termux
+  srcname: exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: Utility for reading, writing and editing meta information in a wide variety of files.
+  maintainers:
+    - termux@github
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.50"
+  origversion: 13.50+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.55"
+  origversion: 13.55+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.57"
+  origversion: "13.57_1"
+  status: outdated
+  summary: Reader and rewriter of EXIF information that supports raw files
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - Artistic-1.0-Perl
+    - GPL-1.0-or-later
+- repo: wikidata
+  srcname: Q5420254
+  visiblename: ExifTool
+  version: "13.59"
+  origversion: null
+  status: newest
+  summary: free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata
+  licenses:
+    - Artistic License
+    - GNU General Public License, version 1.0 or later
+- repo: metacpan
+  srcname: Image-ExifTool
+  visiblename: Image-ExifTool
+  version: "13.55"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information
+  maintainers:
+    - exiftool@cpan
+  licenses:
+    - perl_5
+- repo: alpine_3_22
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.30"
+  origversion: 13.30-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "13.30"
+  origversion: 13.30-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_18
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "12.60"
+  origversion: 12.60-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_17
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "12.50"
+  origversion: 12.50-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_17
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "12.50"
+  origversion: 12.50-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_17
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "12.50"
+  origversion: 12.50-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_18
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "12.60"
+  origversion: 12.60-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_18
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "12.60"
+  origversion: 12.60-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "12.70"
+  origversion: 12.70-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "12.70"
+  origversion: 12.70-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_19
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "12.70"
+  origversion: 12.70-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "12.80"
+  origversion: 12.80-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "12.80"
+  origversion: 12.80-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_20
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "12.80"
+  origversion: 12.80-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.03"
+  origversion: 13.03-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-doc
+  visiblename: perl-image-exiftool-doc
+  version: "13.03"
+  origversion: 13.03-r0
+  status: outdated
+  summary: Perl module for editing exif metadata in files (documentation)
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_21
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.03"
+  origversion: 13.03-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: alpine_3_22
+  subrepo: community
+  srcname: perl-image-exiftool
+  binname: exiftool
+  visiblename: exiftool
+  version: "13.30"
+  origversion: 13.30-r0
+  status: outdated
+  summary: Tool for editing exif metadata in files
+  maintainers:
+    - ncopa@alpinelinux.org
+  licenses:
+    - Artistic-1.0-Perl GPL-1.0-or-later
+  vulnerable: true
+- repo: apertis_v2023
+  subrepo: v2023/development
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.16"
+  origversion: 12.16+dfsg-2+apertis0
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  vulnerable: true
+- repo: alt_p11
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.76"
+  origversion: 12.76-alt1
+  status: outdated
+  summary: Perl module for manipulating EXIF data
+  maintainers:
+    - viy@altlinux.org
+  licenses:
+    - Perl
+  categories:
+    - Development/Perl
+  vulnerable: true
+- repo: amazon_1
+  subrepo: main
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "9.46"
+  origversion: 9.46-1.2.amzn1
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Applications/Multimedia
+  vulnerable: true
+- repo: amazon_1
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.38"
+  origversion: 12.38-1.3.amzn1
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.57"
+  origversion: 12.57+dfsg-1+apertis0
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  vulnerable: true
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.57"
+  origversion: 12.57+dfsg-1+apertis0
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  vulnerable: true
+- repo: apertis_v2026
+  subrepo: v2026/development
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1+apertis0
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  vulnerable: true
+- repo: apertis_v2027
+  subrepo: v2027dev1/development
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1+apertis0
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  vulnerable: true
+- repo: chimera
+  subrepo: main
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool
+  visiblename: perl-image-exiftool
+  version: "13.45"
+  origversion: 13.45-r0
+  status: outdated
+  summary: Perl module for editing exif metadata
+  licenses:
+    - Artistic-1.0-Perl OR GPL-1.0-or-later
+  vulnerable: true
+- repo: chimera
+  subrepo: main
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-man
+  visiblename: perl-image-exiftool-man
+  version: "13.45"
+  origversion: 13.45-r0
+  status: outdated
+  summary: Perl module for editing exif metadata (manual pages)
+  licenses:
+    - Artistic-1.0-Perl OR GPL-1.0-or-later
+  vulnerable: true
+- repo: chimera
+  subrepo: main
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-progs
+  visiblename: perl-image-exiftool-progs
+  version: "13.45"
+  origversion: 13.45-r0
+  status: outdated
+  summary: Perl module for editing exif metadata (programs)
+  licenses:
+    - Artistic-1.0-Perl OR GPL-1.0-or-later
+  vulnerable: true
+- repo: chimera
+  subrepo: main
+  srcname: perl-image-exiftool
+  binname: perl-image-exiftool-progs-man
+  visiblename: perl-image-exiftool-progs-man
+  version: "13.45"
+  origversion: 13.45-r0
+  status: outdated
+  summary: Perl module for editing exif metadata (programs) (manual pages)
+  licenses:
+    - Artistic-1.0-Perl OR GPL-1.0-or-later
+  vulnerable: true
+- repo: crux_37
+  subrepo: contrib
+  srcname: p5-image-exiftool
+  visiblename: p5-image-exiftool
+  version: "13.29"
+  origversion: null
+  status: outdated
+  summary: Reader and rewriter of EXIF informations that supports raw files
+  maintainers:
+    - tbier@posteo.de
+  vulnerable: true
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.16"
+  origversion: 12.16+dfsg-2
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.57"
+  origversion: 12.57+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: deepin_unstable
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: 11.16.1.1
+  origversion: 11.16.1.1-1+dde
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  vulnerable: true
+- repo: deepin_23
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.63"
+  origversion: 12.63+dfsg-2
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: slackbuilds
+  srcname: libraries/exiftool
+  visiblename: libraries/exiftool
+  version: "13.00"
+  origversion: null
+  status: outdated
+  maintainers:
+    - lumin+slackbuilds@etherlight.link
+  categories:
+    - libraries
+  vulnerable: true
+- repo: deepin_25
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.63"
+  origversion: 12.63+dfsg-2
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.16"
+  origversion: 12.16+dfsg-2
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: epel_6
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "11.01"
+  origversion: 11.01-1.el6
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Applications/Multimedia
+  vulnerable: true
+- repo: epel_7
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.70"
+  origversion: 12.70-1.el7
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: epel_8
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.70"
+  origversion: 12.70-1.el8
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: epel_9
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.10"
+  origversion: 13.10-1.el9
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: epel_10
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.10"
+  origversion: 13.10-1.el10_0
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_39
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.70"
+  origversion: 12.70-1.fc39
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_39
+  subrepo: release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.60"
+  origversion: 12.60-2.fc39
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_40
+  subrepo: release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.70"
+  origversion: 12.70-3.fc40
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_40
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.10"
+  origversion: 13.10-1.fc40
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_41
+  subrepo: updates
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.10"
+  origversion: 13.10-1.fc41
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_41
+  subrepo: release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.70"
+  origversion: 12.70-4.fc41
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_42
+  subrepo: release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.10"
+  origversion: 13.10-1.fc42
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_43
+  subrepo: release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.10"
+  origversion: 13.10-3.fc43
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_44
+  subrepo: release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.44"
+  origversion: 13.44-2.fc44
+  status: legacy
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later OR Artistic-1.0-Perl
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: freebsd
+  srcname: graphics/p5-Image-ExifTool
+  binname: p5-Image-ExifTool
+  visiblename: graphics/p5-Image-ExifTool
+  version: "13.36"
+  origversion: null
+  status: legacy
+  summary: Perl module for getting EXIF data from image files
+  maintainers:
+    - devnull@apt322.org
+  categories:
+    - graphics
+  vulnerable: true
+- repo: gentoo
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.10"
+  origversion: null
+  status: legacy
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: gentoo
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.30"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: gentoo
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "12.76"
+  origversion: null
+  status: legacy
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: liguros_stable
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.10"
+  origversion: null
+  status: legacy
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: liguros_stable
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "12.76"
+  origversion: null
+  status: legacy
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: liguros_stable
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.30"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: liguros_develop
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.30"
+  origversion: null
+  status: outdated
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: liguros_develop
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "12.76"
+  origversion: null
+  status: legacy
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: liguros_develop
+  srcname: media-libs/exiftool
+  visiblename: media-libs/exiftool
+  version: "13.10"
+  origversion: null
+  status: legacy
+  summary: Read and write meta information in image, audio and video files
+  maintainers:
+    - perl@gentoo.org
+  licenses:
+    - '|| ( Artistic GPL-1+ )'
+  categories:
+    - media-libs
+  vulnerable: true
+- repo: mageia_9
+  subrepo: core/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 12.500.0
+  origversion: 1:12.500.0-1.mga9
+  status: outdated
+  summary: Read and write meta information
+  licenses:
+    - GPL
+  categories:
+    - Development/Perl
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: perl536Packages.ImageExifTool
+  visiblename: perl5.36.3-Image-ExifTool
+  version: "12.84"
+  origversion: null
+  status: outdated
+  summary: A tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perl536Packages
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: exiftool
+  visiblename: perl5.38.2-Image-ExifTool
+  version: "12.84"
+  origversion: null
+  status: outdated
+  summary: A tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: exiftool
+  visiblename: perl5.40.0-Image-ExifTool
+  version: "13.00"
+  origversion: null
+  status: outdated
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: perl538Packages.ImageExifTool
+  visiblename: perl5.38.2-Image-ExifTool
+  version: "13.00"
+  origversion: null
+  status: outdated
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perl538Packages
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: perl538Packages.ImageExifTool
+  visiblename: perl5.38.2-Image-ExifTool
+  version: "13.25"
+  origversion: null
+  status: outdated
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  categories:
+    - perl538Packages
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: exiftool
+  visiblename: perl5.40.0-Image-ExifTool
+  version: "13.25"
+  origversion: null
+  status: outdated
+  summary: Tool to read, write and edit EXIF meta information
+  maintainers:
+    - kiloreux@gmail.com
+    - anthony@roussel.dev
+  licenses:
+    - GPL-1.0-or-later
+    - Artistic-2.0
+  vulnerable: true
+- repo: openkylin_3_0
+  subrepo: huanghe/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.76"
+  origversion: 12.76+dfsg-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - perl
+  vulnerable: true
+- repo: openeuler_24_03_lts
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.76"
+  origversion: 12.76-1.oe2403
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts_sp1
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.76"
+  origversion: 12.76-1.oe2403sp1
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_09
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.76"
+  origversion: 12.76-1.oe2409
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL+ or Artistic
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_25_03
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "13.18"
+  origversion: 13.18-1.oe2503
+  status: outdated
+  summary: Utility for reading and writing image meta info
+  licenses:
+    - GPL-1.0-or-later or Artistic-1.0
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openkylin_1_0
+  subrepo: yangtze/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.44"
+  origversion: 12.44-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - perl
+  vulnerable: true
+- repo: openkylin_1_0
+  subrepo: yangtze-proposed/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.44"
+  origversion: 12.44-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - perl
+  vulnerable: true
+- repo: openkylin_2_0
+  subrepo: nile/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.76"
+  origversion: 12.76+dfsg-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - perl
+  vulnerable: true
+- repo: openkylin_2_0
+  subrepo: nile-proposed/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.76"
+  origversion: 12.76+dfsg-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - perl
+  vulnerable: true
+- repo: openkylin_3_0
+  subrepo: huanghe-proposed/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.76"
+  origversion: 12.76+dfsg-ok1
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+  categories:
+    - perl
+  vulnerable: true
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.76"
+  origversion: 12.76-1
+  status: outdated
+  summary: Read and write meta information
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - GPLv2
+  categories:
+    - Development/Perl
+  vulnerable: true
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.76"
+  origversion: 12.76-1
+  status: outdated
+  summary: Read and write meta information
+  maintainers:
+    - bero+massbuild@lindev.ch
+  licenses:
+    - GPLv2
+  categories:
+    - Development/Perl
+  vulnerable: true
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.54"
+  origversion: 12.54-bp155.1.5
+  status: outdated
+  summary: Read and write meta information
+  licenses:
+    - Artistic-1.0 OR GPL-1.0-or-later
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.65"
+  origversion: 12.65-bp156.1.1
+  status: outdated
+  summary: Read and write meta information
+  licenses:
+    - Artistic-1.0 OR GPL-1.0-or-later
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: pardus_21
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.16"
+  origversion: 12.16+dfsg-2
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: pclinuxos
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 12.340.0
+  origversion: 12.340.0-1pclos2021
+  status: outdated
+  summary: Read and write meta information
+  categories:
+    - Development/Perl
+  vulnerable: true
+- repo: pisi_main
+  subrepo: main
+  srcname: programming/language/perl/perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.50"
+  origversion: null
+  status: outdated
+  summary: A command-line application for reading, writing and editing meta information in image, audio and video files
+  maintainers:
+    - admins@pisilinux.org
+  licenses:
+    - Artistic
+    - GPLv2
+  categories:
+    - app:console
+  vulnerable: true
+- repo: pld
+  srcname: perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: "12.65"
+  origversion: 12.65-1
+  status: outdated
+  vulnerable: true
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "11.16"
+  origversion: 11.16-1+deb10u1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.16"
+  origversion: 12.16+dfsg-2
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.57"
+  origversion: 12.57+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: raspbian_stable
+  subrepo: main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - perl
+  vulnerable: true
+- repo: rosa_2019_1
+  subrepo: main/release
+  srcname: perl-Image-ExifTool
+  binnames:
+    - perl-Image-ExifTool
+  visiblename: perl-Image-ExifTool
+  version: 11.10.0
+  origversion: 1:11.10.0-2
+  status: outdated
+  summary: Read and write meta information
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - GPL
+  categories:
+    - Development/Perl
+  vulnerable: true
+- repo: trisquel_10_0
+  subrepo: nabia-updates/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "11.88"
+  origversion: 11.88-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "11.88"
+  origversion: 11.88-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: trisquel_10_0
+  subrepo: nabia-security/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "11.88"
+  origversion: 11.88-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.40"
+  origversion: 12.40+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "9.46"
+  origversion: 9.46-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+    - pere@debian.org
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "10.10"
+  origversion: 10.10-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+    - pere@debian.org
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "10.80"
+  origversion: 10.80-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "10.80"
+  origversion: 10.80-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "11.88"
+  origversion: 11.88-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal-updates/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "11.88"
+  origversion: 11.88-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.40"
+  origversion: 12.40+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "12.76"
+  origversion: 12.76+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.10"
+  origversion: 13.10+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: libimage-exiftool-perl
+  binnames:
+    - libimage-exiftool-perl
+  visiblename: libimage-exiftool-perl
+  version: "13.25"
+  origversion: 13.25+dfsg-1
+  status: outdated
+  maintainers:
+    - pkg-perl-maintainers@lists.alioth.debian.org
+    - gregoa@debian.org
+    - mariwan@ifi.uio.no
+  categories:
+    - universe/perl
+  vulnerable: true
