@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T02:08:52Z
+  collectedAt: 2026-09-10T15:57:57Z
 timeline:
   created: 2018-05-09
   lastCommit: 2026-05-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 5021
+  star: 5024
   watcher: 65
   fork: 482
   release: 0
@@ -87,7 +87,7 @@ total:
   commit: 423
 ---
 path: /home/runner/.x-repo/github.com/exiftool/exiftool
-collectedAt: 2026-09-10T02:09:10Z
+collectedAt: 2026-09-10T15:58:18Z
 loc:
   Perl:
     code: 318005
