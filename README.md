@@ -30,9 +30,9 @@ Overall score: **1.4 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Maintained** (3/10) — 0 commit(s) and 4 issue activity found in the last 90 days -- score normalized to 3
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,171 · **Forks**: 492 · **Open issues**: 380 · **Contributors**: 3
+- **Stars**: 5,173 · **Forks**: 492 · **Open issues**: 380 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 5 · **Closed issues**: 343 · **Open issues**: 37 · **Commits**: 423
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 5 · **Closed issues**: 344 · **Open issues**: 36 · **Commits**: 423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 2 | 1 | 4 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 2 | 2 | 7 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 3 | 4 | 12 | 0 |
-| last180d | 2026-04-22 | 0 | 0 | 4 | 7 | 24 | 2 |
-| 360d | 2025-10-24 | 0 | 1 | 5 | 46 | 31 | 23 |
-| last720d | 2024-10-29 | 0 | 1 | 5 | 109 | 32 | 65 |
+| 30d | 2026-09-20 | 0 | 0 | 2 | 1 | 3 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 2 | 2 | 7 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 3 | 4 | 12 | 0 |
+| last180d | 2026-04-23 | 0 | 0 | 4 | 7 | 24 | 2 |
+| 360d | 2025-10-25 | 0 | 1 | 5 | 47 | 30 | 23 |
+| last720d | 2024-10-30 | 0 | 1 | 5 | 110 | 31 | 64 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T02:25:47Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T02:38:52Z._
