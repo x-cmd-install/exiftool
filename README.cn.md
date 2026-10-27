@@ -26,13 +26,13 @@ x install exiftool
 
 ## OpenSSF Scorecard 评分
 
-总评分: **1.4 / 10**
+总评分: **1.2 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (2/10) — 0 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 2
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install exiftool
 
 ## 流行度
 
-- **Star**: 5,207 · **Fork**: 496 · **开放 issue**: 380 · **贡献者**: 3
+- **Star**: 5,211 · **Fork**: 496 · **开放 issue**: 380 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 5 · **已关闭 issue**: 354 · **开放 issue**: 26 · **提交数**: 423
+- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 5 · **已关闭 issue**: 357 · **开放 issue**: 23 · **提交数**: 423
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 2 | 1 | 2 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 2 | 2 | 6 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 3 | 5 | 8 | 0 |
-| last180d | 2026-04-29 | 0 | 0 | 4 | 11 | 19 | 2 |
-| 360d | 2025-10-31 | 0 | 1 | 5 | 56 | 20 | 22 |
-| last720d | 2024-11-05 | 0 | 1 | 5 | 119 | 21 | 63 |
+| 30d | 2026-09-27 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 2 | 3 | 5 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 3 | 7 | 6 | 0 |
+| last180d | 2026-04-30 | 0 | 0 | 4 | 14 | 16 | 2 |
+| 360d | 2025-11-01 | 0 | 1 | 5 | 59 | 17 | 22 |
+| last720d | 2024-11-06 | 0 | 1 | 5 | 121 | 18 | 62 |
 
 ## 发行版状态
 
@@ -87,4 +87,4 @@ exiftool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T02:20:51Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T02:55:52Z._
