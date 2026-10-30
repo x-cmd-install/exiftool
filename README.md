@@ -42,26 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,216 · **Forks**: 495 · **Open issues**: 382 · **Contributors**: 3
+- **Stars**: 5,221 · **Forks**: 496 · **Open issues**: 384 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 360 · **Open issues**: 22 · **Commits**: 424
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 361 · **Open issues**: 23 · **Commits**: 424
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 3 | 2 | 1 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 5 | 5 | 1 |
-| 90d | 2026-07-31 | 0 | 0 | 0 | 9 | 6 | 1 |
-| last180d | 2026-05-02 | 0 | 0 | 0 | 17 | 15 | 3 |
-| 360d | 2025-11-03 | 0 | 1 | 1 | 61 | 16 | 23 |
-| last720d | 2024-11-08 | 0 | 1 | 1 | 124 | 17 | 63 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 4 | 3 | 1 |
+| last60d | 2026-08-31 | 0 | 0 | 0 | 5 | 6 | 1 |
+| 90d | 2026-08-01 | 0 | 0 | 0 | 10 | 7 | 1 |
+| last180d | 2026-05-03 | 0 | 0 | 0 | 18 | 16 | 3 |
+| 360d | 2025-11-04 | 0 | 1 | 1 | 62 | 17 | 23 |
+| last720d | 2024-11-09 | 0 | 1 | 1 | 124 | 18 | 63 |
 
 ## Distribution status
 
-Reported by **186** distros on [repology.org](https://repology.org/project/exiftool). **7** are ✅ on the latest upstream release, **153** are ⚠️ on an older version.
+Reported by **184** distros on [repology.org](https://repology.org/project/exiftool). **9** are ✅ on the latest upstream release, **150** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T03:31:44Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T03:34:07Z._
