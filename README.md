@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,230 · **Forks**: 497 · **Open issues**: 386 · **Contributors**: 3
+- **Stars**: 5,232 · **Forks**: 496 · **Open issues**: 387 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 365 · **Open issues**: 21 · **Commits**: 424
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 365 · **Open issues**: 22 · **Commits**: 424
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 6 | 1 | 1 |
-| last60d | 2026-09-02 | 0 | 0 | 0 | 8 | 5 | 1 |
-| 90d | 2026-08-03 | 0 | 0 | 0 | 13 | 6 | 1 |
-| last180d | 2026-05-05 | 0 | 0 | 0 | 22 | 14 | 3 |
-| 360d | 2025-11-06 | 0 | 1 | 1 | 65 | 15 | 23 |
-| last720d | 2024-11-11 | 0 | 1 | 1 | 128 | 16 | 63 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 6 | 2 | 1 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 7 | 6 | 1 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 13 | 7 | 1 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 22 | 15 | 2 |
+| 360d | 2025-11-07 | 0 | 1 | 1 | 64 | 16 | 23 |
+| last720d | 2024-11-12 | 0 | 1 | 1 | 127 | 17 | 63 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T03:17:26Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T03:26:47Z._
