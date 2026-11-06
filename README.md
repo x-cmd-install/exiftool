@@ -14,12 +14,12 @@ x install exiftool
 
 ## Code insight
 
-Total: **604,441** lines of code across **441** files in the top 5 languages.
+Total: **604,723** lines of code across **441** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Perl | 319,269 | 25,703 | 9,668 | 244 |
-| Html | 284,098 | 268 | 3,669 | 187 |
+| Perl | 319,549 | 25,814 | 9,675 | 244 |
+| Html | 284,100 | 268 | 3,892 | 187 |
 | Svg | 671 | 51 | 0 | 7 |
 | Xml | 123 | 0 | 1 | 2 |
 | RPMSpecfile | 112 | 0 | 11 | 1 |
@@ -42,41 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,239 · **Forks**: 498 · **Open issues**: 387 · **Contributors**: 3
+- **Stars**: 5,240 · **Forks**: 499 · **Open issues**: 387 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 4 · **Closed issues**: 365 · **Open issues**: 22 · **Commits**: 424
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 365 · **Open issues**: 22 · **Commits**: 425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 3 | 6 | 2 | 1 |
-| last60d | 2026-09-06 | 0 | 0 | 3 | 7 | 6 | 1 |
-| 90d | 2026-08-07 | 0 | 0 | 3 | 13 | 7 | 1 |
-| last180d | 2026-05-09 | 0 | 0 | 3 | 22 | 15 | 2 |
-| 360d | 2025-11-10 | 0 | 1 | 4 | 64 | 16 | 23 |
-| last720d | 2024-11-15 | 0 | 1 | 4 | 125 | 17 | 62 |
-
-## Distribution status
-
-Reported by **184** distros on [repology.org](https://repology.org/project/exiftool). **10** are ✅ on the latest upstream release, **149** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `13.55` | ⚠️ outdated |
-| Debian 14 | `13.55` | ⚠️ outdated |
-| Debian 13 | `13.25` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `13.50` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `12.76` | ⚠️ outdated |
-| Arch | `13.55` | ⚠️ outdated |
-| Homebrew | `13.55` | ⚠️ outdated |
-| Fedora rawhide | `13.55` | ⚠️ outdated |
-| Nix unstable | `13.59` | ⚠️ outdated |
-| Void | `13.57` | ⚠️ outdated |
-| Alpine edge | `13.55` | ⚠️ outdated |
-| openSUSE Tumbleweed | `13.59` | ⚠️ outdated |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 6 | 2 | 2 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 7 | 6 | 2 |
+| 90d | 2026-08-08 | 0 | 0 | 0 | 12 | 7 | 2 |
+| last180d | 2026-05-10 | 0 | 0 | 0 | 22 | 15 | 3 |
+| 360d | 2025-11-11 | 0 | 1 | 1 | 64 | 16 | 24 |
+| last720d | 2024-11-16 | 0 | 1 | 1 | 125 | 17 | 63 |
 
 ## Improve this data
 
@@ -87,4 +68,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T04:17:28Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T04:14:02Z._
