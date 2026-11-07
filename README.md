@@ -42,22 +42,41 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,240 · **Forks**: 499 · **Open issues**: 387 · **Contributors**: 3
+- **Stars**: 5,241 · **Forks**: 499 · **Open issues**: 390 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 365 · **Open issues**: 22 · **Commits**: 425
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 365 · **Open issues**: 25 · **Commits**: 425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 6 | 2 | 2 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 7 | 6 | 2 |
-| 90d | 2026-08-08 | 0 | 0 | 0 | 12 | 7 | 2 |
-| last180d | 2026-05-10 | 0 | 0 | 0 | 22 | 15 | 3 |
-| 360d | 2025-11-11 | 0 | 1 | 1 | 64 | 16 | 24 |
-| last720d | 2024-11-16 | 0 | 1 | 1 | 125 | 17 | 63 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 6 | 5 | 2 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 7 | 9 | 2 |
+| 90d | 2026-08-09 | 0 | 0 | 0 | 11 | 10 | 2 |
+| last180d | 2026-05-11 | 0 | 0 | 0 | 22 | 18 | 3 |
+| 360d | 2025-11-12 | 0 | 1 | 1 | 64 | 19 | 24 |
+| last720d | 2024-11-17 | 0 | 1 | 1 | 125 | 20 | 63 |
+
+## Distribution status
+
+Reported by **185** distros on [repology.org](https://repology.org/project/exiftool). **9** are ✅ on the latest upstream release, **151** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `13.55` | ⚠️ outdated |
+| Debian 14 | `13.55` | ⚠️ outdated |
+| Debian 13 | `13.25` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `13.50` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `12.76` | ⚠️ outdated |
+| Arch | `13.55` | ⚠️ outdated |
+| Homebrew | `13.55` | ⚠️ outdated |
+| Fedora rawhide | `13.55` | ⚠️ outdated |
+| Nix unstable | `13.59` | ⚠️ outdated |
+| Void | `13.57` | ⚠️ outdated |
+| Alpine edge | `13.55` | ⚠️ outdated |
+| openSUSE Tumbleweed | `13.59` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -68,4 +87,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T04:14:02Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T03:47:18Z._
