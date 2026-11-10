@@ -14,24 +14,24 @@ x install exiftool
 
 ## Code insight
 
-Total: **604,723** lines of code across **441** files in the top 5 languages.
+Total: **605,904** lines of code across **443** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Perl | 319,549 | 25,814 | 9,675 | 244 |
-| Html | 284,100 | 268 | 3,892 | 187 |
+| Perl | 320,302 | 25,898 | 9,706 | 245 |
+| Html | 284,528 | 269 | 3,896 | 188 |
 | Svg | 671 | 51 | 0 | 7 |
 | Xml | 123 | 0 | 1 | 2 |
 | RPMSpecfile | 112 | 0 | 11 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **1.2 / 10**
+Overall score: **1.7 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
-- **Maintained** (2/10) — 0 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,246 · **Forks**: 499 · **Open issues**: 390 · **Contributors**: 3
+- **Stars**: 5,247 · **Forks**: 499 · **Open issues**: 391 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 365 · **Open issues**: 25 · **Commits**: 425
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 1 · **Closed issues**: 371 · **Open issues**: 20 · **Commits**: 426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 6 | 5 | 2 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 7 | 9 | 2 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 11 | 10 | 2 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 22 | 17 | 3 |
-| 360d | 2025-11-14 | 0 | 1 | 1 | 64 | 19 | 23 |
-| last720d | 2024-11-19 | 0 | 1 | 1 | 125 | 20 | 63 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 10 | 2 | 3 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 11 | 6 | 3 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 15 | 6 | 3 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 28 | 12 | 4 |
+| 360d | 2025-11-15 | 0 | 1 | 1 | 70 | 14 | 24 |
+| last720d | 2024-11-20 | 0 | 1 | 1 | 131 | 15 | 64 |
 
 ## Distribution status
 
-Reported by **185** distros on [repology.org](https://repology.org/project/exiftool). **11** are ✅ on the latest upstream release, **149** are ⚠️ on an older version.
+Reported by **186** distros on [repology.org](https://repology.org/project/exiftool). **2** are ✅ on the latest upstream release, **158** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T03:43:00Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T05:15:31Z._

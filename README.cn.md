@@ -14,24 +14,24 @@ x install exiftool
 
 ## 代码洞察
 
-合计: **604,723** 行代码（覆盖前 5 种语言、共 **441** 个文件）。
+合计: **605,904** 行代码（覆盖前 5 种语言、共 **443** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Perl | 319,549 | 25,814 | 9,675 | 244 |
-| Html | 284,100 | 268 | 3,892 | 187 |
+| Perl | 320,302 | 25,898 | 9,706 | 245 |
+| Html | 284,528 | 269 | 3,896 | 188 |
 | Svg | 671 | 51 | 0 | 7 |
 | Xml | 123 | 0 | 1 | 2 |
 | RPMSpecfile | 112 | 0 | 11 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **1.2 / 10**
+总评分: **1.7 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (-1/10) — No tokens found
-- **Maintained** (2/10) — 0 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
@@ -42,26 +42,26 @@ x install exiftool
 
 ## 流行度
 
-- **Star**: 5,246 · **Fork**: 499 · **开放 issue**: 390 · **贡献者**: 3
+- **Star**: 5,247 · **Fork**: 499 · **开放 issue**: 391 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 1 · **已关闭 issue**: 365 · **开放 issue**: 25 · **提交数**: 425
+- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 1 · **已关闭 issue**: 371 · **开放 issue**: 20 · **提交数**: 426
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 6 | 5 | 2 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 7 | 9 | 2 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 11 | 10 | 2 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 22 | 17 | 3 |
-| 360d | 2025-11-14 | 0 | 1 | 1 | 64 | 19 | 23 |
-| last720d | 2024-11-19 | 0 | 1 | 1 | 125 | 20 | 63 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 10 | 2 | 3 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 11 | 6 | 3 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 15 | 6 | 3 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 28 | 12 | 4 |
+| 360d | 2025-11-15 | 0 | 1 | 1 | 70 | 14 | 24 |
+| last720d | 2024-11-20 | 0 | 1 | 1 | 131 | 15 | 64 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/exiftool) 上共有 **185** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**149** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/exiftool) 上共有 **186** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**158** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -87,4 +87,4 @@ exiftool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T03:43:02Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T05:15:32Z._
