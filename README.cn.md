@@ -42,7 +42,7 @@ x install exiftool
 
 ## 流行度
 
-- **Star**: 5,250 · **Fork**: 500 · **开放 issue**: 391 · **贡献者**: 3
+- **Star**: 5,256 · **Fork**: 500 · **开放 issue**: 391 · **贡献者**: 3
 
 ## 累计统计
 
@@ -52,16 +52,16 @@ x install exiftool
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 0 | 10 | 1 | 4 |
-| last60d | 2026-09-12 | 0 | 0 | 0 | 11 | 6 | 4 |
-| 90d | 2026-08-13 | 0 | 0 | 0 | 14 | 6 | 4 |
-| last180d | 2026-05-15 | 0 | 0 | 0 | 28 | 12 | 5 |
-| 360d | 2025-11-16 | 0 | 1 | 1 | 70 | 14 | 25 |
-| last720d | 2024-11-21 | 0 | 1 | 1 | 130 | 15 | 65 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 10 | 1 | 4 |
+| last60d | 2026-09-13 | 0 | 0 | 0 | 11 | 6 | 4 |
+| 90d | 2026-08-14 | 0 | 0 | 0 | 14 | 6 | 4 |
+| last180d | 2026-05-16 | 0 | 0 | 0 | 28 | 12 | 5 |
+| 360d | 2025-11-17 | 0 | 1 | 1 | 70 | 14 | 25 |
+| last720d | 2024-11-22 | 0 | 1 | 1 | 130 | 15 | 65 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/exiftool) 上共有 **185** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**158** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/exiftool) 上共有 **185** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**150** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -73,7 +73,7 @@ x install exiftool
 | Arch | `13.55` | ⚠️ outdated |
 | Homebrew | `13.55` | ⚠️ outdated |
 | Fedora rawhide | `13.55` | ⚠️ outdated |
-| Nix unstable | `13.59` | ⚠️ outdated |
+| Nix unstable | `13.60` | ⚠️ outdated |
 | Void | `13.57` | ⚠️ outdated |
 | Alpine edge | `13.55` | ⚠️ outdated |
 | openSUSE Tumbleweed | `13.59` | ⚠️ outdated |
@@ -87,4 +87,4 @@ exiftool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T03:47:12Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T04:55:54Z._
