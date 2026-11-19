@@ -32,7 +32,7 @@ Total: **606,324** lines of code across **443** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,270 · **Forks**: 505 · **Open issues**: 395 · **Contributors**: 3
+- **Stars**: 5,276 · **Forks**: 505 · **Open issues**: 395 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -42,16 +42,16 @@ Total: **606,324** lines of code across **443** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-19 | 0 | 0 | 0 | 14 | 1 | 5 |
-| last60d | 2026-09-19 | 0 | 0 | 0 | 16 | 4 | 5 |
-| 90d | 2026-08-20 | 0 | 0 | 0 | 19 | 5 | 5 |
-| last180d | 2026-05-22 | 0 | 0 | 0 | 33 | 11 | 6 |
-| 360d | 2025-11-23 | 0 | 1 | 1 | 76 | 12 | 26 |
-| last720d | 2024-11-28 | 0 | 1 | 1 | 134 | 13 | 65 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 14 | 1 | 5 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 16 | 3 | 5 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 19 | 5 | 5 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 33 | 11 | 6 |
+| 360d | 2025-11-24 | 0 | 1 | 1 | 76 | 12 | 26 |
+| last720d | 2024-11-29 | 0 | 1 | 1 | 133 | 13 | 65 |
 
 ## Distribution status
 
-Reported by **186** distros on [repology.org](https://repology.org/project/exiftool). **9** are ✅ on the latest upstream release, **151** are ⚠️ on an older version.
+Reported by **184** distros on [repology.org](https://repology.org/project/exiftool). **10** are ✅ on the latest upstream release, **149** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,4 +77,4 @@ Install metadata for exiftool lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261118.yml` · 2026-11-18T05:11:56Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T05:03:36Z._
