@@ -24,6 +24,16 @@ x install exiftool
 | Xml | 123 | 0 | 1 | 2 |
 | RPMSpecfile | 112 | 0 | 11 | 1 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **2.5 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/exiftool/exiftool>
@@ -32,26 +42,26 @@ x install exiftool
 
 ## 流行度
 
-- **Star**: 5,279 · **Fork**: 507 · **开放 issue**: 395 · **贡献者**: 3
+- **Star**: 5,283 · **Fork**: 507 · **开放 issue**: 395 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 2 · **已关闭 issue**: 378 · **开放 issue**: 17 · **提交数**: 428
+- **发布数**: 0 · **已合并 PR**: 1 · **开放 PR**: 1 · **已关闭 issue**: 378 · **开放 issue**: 17 · **提交数**: 428
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 1 | 15 | 0 | 5 |
-| last60d | 2026-09-21 | 0 | 0 | 1 | 17 | 2 | 5 |
-| 90d | 2026-08-22 | 0 | 0 | 1 | 20 | 4 | 5 |
-| last180d | 2026-05-24 | 0 | 0 | 1 | 34 | 10 | 6 |
-| 360d | 2025-11-25 | 0 | 1 | 2 | 77 | 11 | 26 |
-| last720d | 2024-11-30 | 0 | 1 | 2 | 133 | 12 | 65 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 15 | 0 | 5 |
+| last60d | 2026-09-22 | 0 | 0 | 0 | 17 | 2 | 5 |
+| 90d | 2026-08-23 | 0 | 0 | 0 | 20 | 4 | 5 |
+| last180d | 2026-05-25 | 0 | 0 | 0 | 34 | 10 | 6 |
+| 360d | 2025-11-26 | 0 | 1 | 1 | 77 | 11 | 26 |
+| last720d | 2024-12-01 | 0 | 1 | 1 | 133 | 12 | 65 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/exiftool) 上共有 **184** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**149** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/exiftool) 上共有 **183** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**148** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -77,4 +87,4 @@ exiftool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T04:54:27Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T04:49:10Z._
