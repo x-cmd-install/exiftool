@@ -1,0 +1,144 @@
+about:
+  description: "ExifTool meta information reader/writer"
+  license: GPL-3.0
+  homepage: https://exiftool.org/
+  head: 3d7a053
+  archived: false
+  latestVersion: ""
+  latestRelease: ""
+  latestPrerelease: ""
+  collectedAt: 2026-11-23T04:47:18Z
+timeline:
+  created: 2018-05-09
+  lastCommit: 2026-11-16
+  lastVersion: 
+  lastRelease: 
+  lastPrerelease: 
+popularity:
+  star: 5292
+  watcher: 60
+  fork: 508
+  release: 0
+  contributor: 3
+  pullRequest: 76
+  issue: 395
+language:
+  Perl: 15545259
+  HTML: 9617327
+  PostScript: 10761
+  CSS: 2797
+  Rich Text Format: 990
+totalBytes: 25177134
+recent:
+  last30d:
+    since: 2026-10-24
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 15
+    openIssue: 0
+    commit: 4
+  last60d:
+    since: 2026-09-24
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 17
+    openIssue: 1
+    commit: 5
+  last90d:
+    since: 2026-08-25
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 20
+    openIssue: 4
+    commit: 5
+  last180d:
+    since: 2026-05-27
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 34
+    openIssue: 10
+    commit: 5
+  last360d:
+    since: 2025-11-28
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 77
+    openIssue: 11
+    commit: 26
+  last720d:
+    since: 2024-12-03
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 133
+    openIssue: 12
+    commit: 65
+total:
+  release: 0
+  mergedPR: 1
+  openPR: 1
+  closedIssue: 378
+  openIssue: 17
+  commit: 428
+---
+path: /home/runner/.x-repo/github.com/exiftool/exiftool
+collectedAt: 2026-11-23T04:47:36Z
+loc:
+  Perl:
+    code: 320508
+    comments: 25914
+    blanks: 9709
+    files: 245
+  Html:
+    code: 284742
+    comments: 269
+    blanks: 3888
+    files: 188
+  Svg:
+    code: 671
+    comments: 51
+    blanks: 0
+    files: 7
+  Xml:
+    code: 123
+    comments: 0
+    blanks: 1
+    files: 2
+  RPMSpecfile:
+    code: 112
+    comments: 0
+    blanks: 11
+    files: 1
+  Json:
+    code: 74
+    comments: 0
+    blanks: 0
+    files: 2
+  Css:
+    code: 59
+    comments: 0
+    blanks: 3
+    files: 2
+  Yaml:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  Text:
+    code: 0
+    comments: 2556
+    blanks: 494
+    files: 7
+total:
+  code: 606775
+  comments: 28809
+  blanks: 14113
+  files: 455
+---
+
+---
